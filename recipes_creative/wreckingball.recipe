@@ -1,0 +1,8 @@
+{
+  "input" : [ ],
+  "output" : {
+    "item" : "wreckingball",
+    "count" : 1
+  },
+  "groups" : [ "all", "mod" ]
+}

@@ -1,0 +1,37 @@
+{
+  "objectName" : "wreckingball",
+  "rarity" : "Common",
+  "description" : "Something to come in like.",
+  "shortdescription" : "Wrecking Ball",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : "1000",
+
+  "apexDescription" : "We clawed, we chained our hearts in vain.",
+  "avianDescription" : "We jumped never asking why.",
+  "floranDescription" : "We kisssssed, I fell under your sssspell",
+  "humanDescription" : "A love no one could deny.",
+  "glitchDescription" : "Threat. Don't you ever say I just walked away.",
+  "hylotlDescription" : "I will always want you.",
+
+  "inventoryIcon" : "wreckingballicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "wreckingball.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ],
+
+  "objectType" : "interactable",
+  "interactAction" : "sitdown",
+  "sitFlipDirection" : false,
+  "sitPosition" : [0, 60]
+
+}
